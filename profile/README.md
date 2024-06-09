@@ -15,4 +15,4 @@ We are dedicated to working on cloud-native OLTP topics. Explore our repositorie
 
 ## Contact
 
-Feel free to reach out to us at wenjiehuhippo@cs.wisc.edu(mailto:wenjiehuhippo@cs.wisc.edu).
+Feel free to reach out to us at wenjiehuhippo@cs.wisc.edu.
