@@ -6,7 +6,7 @@ We are dedicated to working on cloud-native OLTP topics. Explore our repositorie
 ## Projects
 
 - [Marlin](https://github.com/CloudOLTP-UWM/Marlin): Efficient Coordination for Autoscaling Cloud DBMS.
-- [Bonsai](https://github.com/CloudOLTP-UWM/Bonsai-private): Index Pushdown in Disaggregated OLTP DBMS.
+- [Nemo](https://github.com/CloudOLTP-UWM/Nemo): Tree-Structured Record Buffering for Storage-Disaggregated OLTP Databases.
 - [Cornus](https://github.com/CloudOLTP-UWM/Cornus): Atomic Commit for a Cloud DBMS with Storage Disaggregation.
 
 ## Contact
