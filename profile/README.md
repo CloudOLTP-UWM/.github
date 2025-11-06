@@ -5,6 +5,7 @@ We are dedicated to working on cloud-native OLTP topics. Explore our repositorie
 
 ## Projects
 
+- [KDV](https://github.com/CloudOLTP-UWM/KDVCompute): Disaggregated Key-Delta-Value Store.
 - [Marlin](https://github.com/CloudOLTP-UWM/Marlin): Efficient Coordination for Autoscaling Cloud DBMS.
 - [Nemo](https://github.com/CloudOLTP-UWM/Nemo): Tree-Structured Record Buffering for Storage-Disaggregated OLTP Databases.
 - [Cornus](https://github.com/CloudOLTP-UWM/Cornus): Atomic Commit for a Cloud DBMS with Storage Disaggregation.
